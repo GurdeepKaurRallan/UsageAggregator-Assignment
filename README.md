@@ -1,4 +1,11 @@
 ## UsageAggregator
+A small application that aggregates and reports subscriber usages
+
+Two APIs:
+
+reportUsage, informing how many bytes were used by a given subscriber at an specific timestamp; and
+getAggregatedUsage, retrieving what was the total usage consumed by a given subscriber per day.
+reportUsage.
 
 ## How the project is developed
 
